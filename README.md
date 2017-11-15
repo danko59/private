@@ -1,3 +1,4 @@
 # private
-Ola
-Kurnik
+Kolia
+Ola - x
+Smolia
