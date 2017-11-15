@@ -1,4 +1,4 @@
 # private
 Kolia
-Ola - x
+Ola - u x
 Smolia
