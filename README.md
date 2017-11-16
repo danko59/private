@@ -1,5 +1,5 @@
 # private
 Kolia
-Ola a - x
+Ola - u x
 Smolia
 Ha ha
